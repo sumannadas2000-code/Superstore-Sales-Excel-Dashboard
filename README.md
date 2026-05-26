@@ -7,5 +7,5 @@ Superstore Sales Dashboard
 3.Monthly sales trends indicate seasonal spikes, especially during year-end periods, suggesting strong holiday purchasing behavior.
 <br>
 4.A small group of customers contributed a major share of total revenue, highlighting the importance of customer retention strategies.
-<br.
+<br>
 5.Discount-heavy orders often reduced overall profit margins, indicating the need for a balanced pricing and discount policy.
