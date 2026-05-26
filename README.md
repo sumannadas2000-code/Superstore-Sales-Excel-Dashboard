@@ -1,5 +1,6 @@
 # Superstore-Sales-Excel-Dashboard
 Superstore Sales Dashboard
+<br>
 1.Sales are highly concentrated in a few categories and regions, showing strong demand but also dependence on limited market segments.
 <br>
 2.Technology products generated the highest profit, while some furniture items showed low or negative profitability due to high discounts.
